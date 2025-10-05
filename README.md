@@ -35,8 +35,8 @@ Temperature: 27.5 °C | 81.5 °F   Humidity: 61 %
 ```
 **🧰Required Library**
 
-•Make sure to install the DHT sensor library before uploading the code:
-•Open Arduino IDE → Sketch → Include Library → Manage Libraries
+•Make sure to install the DHT sensor library before uploading the code:<br>
+•Open Arduino IDE → Sketch → Include Library → Manage Libraries<br>
 •Search for "DHT sensor library
 
 **🚀 Upload Steps**
