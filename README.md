@@ -22,12 +22,12 @@ Although the code was written in the Arduino IDE, it is fully compatible with ES
 
 🧠 How It Works
 
-•Initializes the DHT11 sensor on GPIO2.
-•Reads humidity and temperature every 2 seconds.
-•Checks for invalid readings (NaN).
+•Initializes the DHT11 sensor on GPIO2.<br>
+•Reads humidity and temperature every 2 seconds.<br>
+•Checks for invalid readings (NaN).<br>
 •Displays the readings on the Serial Monitor.
 
-Output Example
+*Output Example*
 ```cpp
 DHT Sensor Ready...
 Temperature: 27.4 °C | 81.3 °F   Humidity: 62 %
