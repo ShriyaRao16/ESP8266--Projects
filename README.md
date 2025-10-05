@@ -20,7 +20,7 @@ Although the code was written in the Arduino IDE, it is fully compatible with ES
   •ESP8266 Board Package<br>
   (Install from Boards Manager → Search “ESP8266” → Install)
 
-🧠 How It Works
+**🧠 How It Works**
 
 •Initializes the DHT11 sensor on GPIO2.<br>
 •Reads humidity and temperature every 2 seconds.<br>
@@ -33,13 +33,13 @@ DHT Sensor Ready...
 Temperature: 27.4 °C | 81.3 °F   Humidity: 62 %
 Temperature: 27.5 °C | 81.5 °F   Humidity: 61 %
 ```
-*🧰Required Library*
+**🧰Required Library**
 
 •Make sure to install the DHT sensor library before uploading the code:
 •Open Arduino IDE → Sketch → Include Library → Manage Libraries
 •Search for "DHT sensor library
 
-*🚀 Upload Steps*
+**🚀 Upload Steps**
 ```
 1.)Connect your ESP8266 via USB.
 2.)In Arduino IDE:
