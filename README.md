@@ -16,7 +16,7 @@ Although the code was written in the Arduino IDE, it is fully compatible with ES
 | Breadboard                        | 1        | Optional for prototyping      |
 
 💻 Software
-•Arduino IDE (v1.8+ or 2.x)
+•Arduino IDE (v1.8+ or 2.x)</br>
 •ESP8266 Board Package
 (Install from Boards Manager → Search “ESP8266” → Install)
 
